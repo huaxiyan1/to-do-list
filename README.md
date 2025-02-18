@@ -1,2 +1,2 @@
 # to-do-list
-学习时练习制作的待办清单网页。a to-do list I made for practice when learning.
+这是一个待办清单网页，学习B站视频www.bilibili.com/video/BV1FPCzYdEeH/后的个人练习 This is a to-do list which I wrote to practice after learning from a video on bilibili. www.bilibili.com/video/BV1FPCzYdEeH/
